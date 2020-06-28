@@ -28,4 +28,4 @@ func detectCycle(head *ListNode) *ListNode {
         fast = fast.Next
     }
     return head
-
+}

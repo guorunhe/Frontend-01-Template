@@ -17,4 +17,4 @@ func swapPairs(head *ListNode) *ListNode {
     secondNode.Next = firstNode
     
     return secondNode
-
+}
